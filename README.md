@@ -116,6 +116,9 @@ Feature Engineering: This will help us generate some new columns from existing o
 
 - <a href="https://github.com/NageswaraRaoLam/Amazon-Sales-Data-Analysis/blob/main/Amazon%20Sales%20Data%20Analysis_PowerBI.pbix">Amazon_Sales_PowerBI_file</a>
 
+## Amazon Sales Analysis Dashboard
+
+![Image](https://github.com/user-attachments/assets/cb6e800e-fea7-431b-b4b0-eb7f029cd1f1)
 
 ## Recommendations:
 
